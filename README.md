@@ -14,14 +14,4 @@ Welcome to my GitHub profile! I'm a passionate developer from Sri Lanka focused 
 - I’m a self-taught expert in js with animations.
 - Passionate about exploring React and Vite.
 
-### 📈 My Projects
-- [React Projects](https://github.com/HasithaSandakelum?tab=repositories&q=&type=public&language=react)
-- [Game Design Concepts](https://github.com/HasithaSandakelum?tab=repositories&q=&type=public&language=game+design)
-- [Web Development Projects](https://github.com/HasithaSandakelum?tab=repositories&q=&type=public&language=web)
-
-### 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/hasitha-sandakelum/)
-- [Twitter](https://twitter.com/hasithaslk)
-- [Blog](https://medium.com/@hasithasandakelum)
-
 Thanks for visiting! Feel free to explore my repositories, check out my projects, and reach out if you want to collaborate. 🚀
