@@ -1,27 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hasitha%20Sandakelum&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Self-Learner%20%7C%20BICT%20Student%20%7C%20Creator&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<br/>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Student+%40+University+of+Ruhuna+%F0%9F%8E%93;Learning+Web+Dev+one+bug+at+a+time+%F0%9F%90%9B;Exploring+React+%7C+Next.js+%7C+Vite+%E2%9A%A1;Passionate+about+Game+Design+%26+3D+%F0%9F%8E%AE;Building+cool+things+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
+# Hi, I'm Hasitha Sandakelum 👋
+
+<sub>Self-Learner &nbsp;·&nbsp; BICT Student @ University of Ruhuna &nbsp;·&nbsp; Building things from 🇱🇰 Sri Lanka</sub>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Student+%40+University+of+Ruhuna+%F0%9F%8E%93;Learning+Web+Dev+one+bug+at+a+time+%F0%9F%90%9B;Exploring+React+%7C+Next.js+%7C+Vite+%E2%9A%A1;Passionate+about+Game+Design+%26+3D+%F0%9F%8E%AE;Building+cool+things+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
+
+<br/>
+<br/>
 
 </div>
 
 ---
 
-## 🧬 About Me
+## 🙋 About Me
 
-```ts
-const hasitha = {
-  name:       "Hasitha Sandakelum",
-  location:   "Sri Lanka 🇱🇰",
-  education:  "Bachelor of ICT @ University of Ruhuna (UOR)",
-  role:       "Self-taught learner & university student",
-  exploring:  ["Web Development", "Game Design", "3D Art"],
-  stack:      ["React", "Next.js", "Vite", "MongoDB", "JavaScript"],
-  tools:      ["Figma", "Blender"],
-  motto:      "Learning every single day 📖",
-};
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="270">
+      <img src="https://img.shields.io/badge/-%F0%9F%8E%93%20UNIVERSITY%20STUDENT-302b63?style=for-the-badge&labelColor=0f0c29" /><br/><br/>
+      <b>Bachelor of ICT</b><br/>
+      University of Ruhuna<br/>
+      <sub>📍 Sri Lanka · Enrolled 2025</sub>
+    </td>
+    <td align="center" width="270">
+      <img src="https://img.shields.io/badge/-%F0%9F%94%A5%20SELF%20LEARNER-302b63?style=for-the-badge&labelColor=0f0c29" /><br/><br/>
+      <b>No bootcamp. Just curiosity.</b><br/>
+      Teaching myself through<br/>
+      <sub>projects · docs · trial & error</sub>
+    </td>
+    <td align="center" width="270">
+      <img src="https://img.shields.io/badge/-%F0%9F%8E%AE%20HOBBIES-302b63?style=for-the-badge&labelColor=0f0c29" /><br/><br/>
+      <b>Web Design · 3D Art</b><br/>
+      Blender · Figma · React<br/>
+      <sub>creating things beyond just code</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -105,6 +129,7 @@ const hasitha = {
 
 <img src="https://komarev.com/ghpvc/?username=dev-sandakelum&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<br/>
+<br/>
 
 </div>
