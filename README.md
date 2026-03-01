@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hasitha%20Sandakelum&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Creator&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hasitha%20Sandakelum&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Self-Learner%20%7C%20BICT%20Student%20%7C%20Creator&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Game+Designer+%26+3D+Artist+%F0%9F%8E%AE;React+%7C+Next.js+%7C+Vite+Enthusiast+%E2%9A%A1;JavaScript+Animation+Specialist+%F0%9F%8E%AF;Building+cool+things+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Student+%40+University+of+Ruhuna+%F0%9F%8E%93;Learning+Web+Dev+one+bug+at+a+time+%F0%9F%90%9B;Exploring+React+%7C+Next.js+%7C+Vite+%E2%9A%A1;Passionate+about+Game+Design+%26+3D+%F0%9F%8E%AE;Building+cool+things+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,20 +12,20 @@
 
 ```ts
 const hasitha = {
-  name:      "Hasitha Sandakelum",
-  location:  "Sri Lanka 🇱🇰",
-  education: "Bachelor of ICT @ University of Ruhuna (2025)",
-  focus:     ["Web Development", "Game Design", "3D Art"],
-  stack:     ["React", "Next.js", "Vite", "MongoDB", "JavaScript"],
-  tools:     ["Figma", "Blender", "Unity"],
-  superpower: "Self-taught JS animation wizard ✨",
-  available:  true,
+  name:       "Hasitha Sandakelum",
+  location:   "Sri Lanka 🇱🇰",
+  education:  "Bachelor of ICT @ University of Ruhuna (UOR)",
+  role:       "Self-taught learner & university student",
+  exploring:  ["Web Development", "Game Design", "3D Art"],
+  stack:      ["React", "Next.js", "Vite", "MongoDB", "JavaScript"],
+  tools:      ["Figma", "Blender"],
+  motto:      "Learning every single day 📖",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech I'm Learning & Using
 
 <div align="center">
 
@@ -35,7 +35,6 @@ const hasitha = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -51,7 +50,7 @@ const hasitha = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -79,21 +78,11 @@ const hasitha = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev-sandakelum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dev-sandakelum/dev-sandakelum/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-sandakelum&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ff6ecd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
