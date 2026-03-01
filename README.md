@@ -1,17 +1,121 @@
-# Hi there, I'm Hasitha Sandakelum 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate developer from Sri Lanka focused on Game Design, Web Development, and React. I specialize in React, Vite, Nextjs, and MongoDB integration with databases. I’m also experienced in figma ,blender and more.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hasitha%20Sandakelum&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Creator&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### 🌱 Current Focus
-- Improving my skills in Game Design and Web Development.
-- Developing full-stack applications using React, Vite, and MongoDB.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Game+Designer+%26+3D+Artist+%F0%9F%8E%AE;React+%7C+Next.js+%7C+Vite+Enthusiast+%E2%9A%A1;JavaScript+Animation+Specialist+%F0%9F%8E%AF;Building+cool+things+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
 
-### 📚 Currently Learning
-- Bachelor of ICT at Ruhuna University, enrolling in 2025.
-- Enhancing my knowledge in Advanced Web Technologies and Game Engines.
-  
-### ⚡ Fun Facts
-- I’m a self-taught expert in js with animations.
-- Passionate about exploring React and Vite.
+</div>
 
-Thanks for visiting! Feel free to explore my repositories, check out my projects, and reach out if you want to collaborate. 🚀
+---
+
+## 🧬 About Me
+
+```ts
+const hasitha = {
+  name:      "Hasitha Sandakelum",
+  location:  "Sri Lanka 🇱🇰",
+  education: "Bachelor of ICT @ University of Ruhuna (2025)",
+  focus:     ["Web Development", "Game Design", "3D Art"],
+  stack:     ["React", "Next.js", "Vite", "MongoDB", "JavaScript"],
+  tools:     ["Figma", "Blender", "Unity"],
+  superpower: "Self-taught JS animation wizard ✨",
+  available:  true,
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Design & 3D**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-sandakelum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sandakelum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-sandakelum&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6ecd&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-sandakelum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dev-sandakelum/dev-sandakelum/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-developmenews-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasitha-sandakelum)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hasitha_sandakelum)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hasitha_san_)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dev-sandakelum&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
