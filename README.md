@@ -99,24 +99,6 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 ---
 
-## 🚀 What I'm Exploring
-
-<div align="center">
-
-|         🚀 Area        | 🔍 Focus                           |
-| :--------------------: | :--------------------------------- |
-|   **Web Development**  | React · Next.js · Vite             |
-|     **Programming**    | JavaScript · TypeScript            |
-|       **UI / UX**      | Figma · Modern Web Interfaces      |
-| **3D & Creative Tech** | Blender · 3D Experiences           |
-|       **Backend**      | Node.js · Express · MongoDB        |
-|     **Deployment**     | Vercel · GitHub                    |
-|     **Game Design**    | Interactive & Creative Experiences |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
