@@ -119,7 +119,7 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-sandakelum\&bg_color=0d1117\&color=a78bfa\&line=a78bfa\&point=ff6ecd\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://raw.githubusercontent.com/dev-sandakelum/dev-sandakelum/main/activity-graph.svg)](https://github.com/dev-sandakelum)
 
 </div>
 
