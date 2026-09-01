@@ -49,15 +49,21 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <div align="center">
 
-### 💚 Microsoft Student Ambassador
+<a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20">
+  <img src="img/Student Ambassadors.png" alt="Microsoft Student Ambassador" width="120" />
+</a>
 
 <br/>
 
-<img src="img/Student Ambassadors.png" alt="Microsoft Student Ambassador" width="160" />
+**💚 Microsoft Student Ambassador**
 
-<br/><br/>
+<br/>
 
-**Learning. Sharing. Connecting. Building.**
+[![View Profile](https://img.shields.io/badge/View%20Ambassador%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20)
+
+<br/>
+
+*Learning · Sharing · Connecting · Building*
 
 </div>
 
