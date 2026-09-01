@@ -1,18 +1,18 @@
 <div align="center">
 
-<br/>
-
-# Hi, I'm Hasitha Sandakelum 👋
-
-### Self-Learner · BICT Student @ University of Ruhuna · Microsoft Student Ambassador
-
-🇱🇰 **Building, learning & experimenting from Sri Lanka**
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Hasitha%20Sandakelum&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Self-Learner%20%C2%B7%20BICT%20Student%20%C2%B7%20Microsoft%20Student%20Ambassador&descAlignY=60&descSize=16)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=20\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&width=650\&lines=BICT+Student+%40+University+of+Ruhuna+%F0%9F%8E%93;Microsoft+Student+Ambassador+%F0%9F%92%9A;Learning+Web+Development+one+project+at+a+time+%F0%9F%9A%80;Exploring+React+%7C+Next.js+%7C+Vite+%E2%9A%A1;Passionate+about+Game+Design+%26+3D+%F0%9F%8E%AE;Building+cool+things+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=20\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&multiline=false\&width=700\&lines=🎓+BICT+Student+%40+University+of+Ruhuna;💚+Microsoft+Student+Ambassador;🚀+Building+Web+Apps+with+React+%7C+Next.js+%7C+Vite;🎮+Passionate+about+Game+Design+%26+3D+Art;🇱🇰+Building+cool+things+from+Sri+Lanka)](https://git.io/typing-svg)
 
 <br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-dev--sandakelum-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dev-sandakelum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hasitha--sandakelum-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasitha-sandakelum)
+[![Ambassador](https://img.shields.io/badge/Microsoft_Student_Ambassador-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20)
+[![Sri Lanka](https://img.shields.io/badge/🇱🇰_Sri_Lanka-Building%20%26%20Learning-a78bfa?style=flat-square)](https://github.com/dev-sandakelum)
+
 <br/>
 
 </div>
