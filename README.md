@@ -121,8 +121,6 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-sandakelum&theme=tokyonight" />
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-sandakelum&theme=tokyonight&utcOffset=5.5" />
-
 </div>
 
 ---
@@ -131,15 +129,7 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-developmenews-projects.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hasitha-sandakelum)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dev-sandakelum)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@hasitha_sandakelum)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/hasitha_san_/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-developmenews-projects.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hasitha-sandakelum) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dev-sandakelum) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@hasitha_sandakelum) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/hasitha_san_/)
 
 </div>
 
