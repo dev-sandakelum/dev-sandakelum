@@ -53,7 +53,7 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <br/>
 
-![Microsoft Student Ambassador](https://img.shields.io/badge/Microsoft-Student%20Ambassador-5E5CE6?style=for-the-badge\&logo=microsoft\&logoColor=white)
+<img src="img/Student Ambassadors.png" alt="Microsoft Student Ambassador" width="320" />
 
 <br/><br/>
 
