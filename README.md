@@ -119,12 +119,9 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-sandakelum&theme=tokyonight" width="100%" />
-
-<br/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-sandakelum&theme=tokyonight" />
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-sandakelum&theme=tokyonight&utcOffset=5.5" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-sandakelum&theme=tokyonight" />
 
 </div>
 
