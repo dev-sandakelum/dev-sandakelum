@@ -53,7 +53,7 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <br/>
 
-<img src="img/Student Ambassadors.png" alt="Microsoft Student Ambassador" width="320" />
+<img src="img/Student Ambassadors.png" alt="Microsoft Student Ambassador" width="160" />
 
 <br/><br/>
 
