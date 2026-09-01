@@ -119,7 +119,12 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-sandakelum&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ff6ecd)](https://github.com/dev-sandakelum)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-sandakelum&theme=tokyonight" width="100%" />
+
+<br/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-sandakelum&theme=tokyonight&utcOffset=5.5" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-sandakelum&theme=tokyonight" />
 
 </div>
 
