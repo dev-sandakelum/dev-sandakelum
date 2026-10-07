@@ -4,13 +4,16 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🎓+BICT+Student+%40+University+of+Ruhuna;💚+Microsoft+Student+Ambassador;🚀+Co-Founder+%40+EKTAZEPT;💻+Building+Web+Apps+with+React+%7C+Next.js+%7C+Vite;🎮+Passionate+about+Game+Design+%26+3D+Art;🇱🇰+Building+cool+things+from+Sri+Lanka](https://git.io/typing-svg)
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&lines=%F0%9F%8E%93+BICT+Student+%40+University+of+Ruhuna;%F0%9F%92%9A+Microsoft+Student+Ambassador;%F0%9F%9A%80+Co-Founder+%40+EKTAZEPT;%F0%9F%92%BB+Building+Web+Apps+with+React+%7C+Next.js+%7C+Vite;%F0%9F%8E%AE+Passionate+about+Game+Design+%26+3D+Art;%F0%9F%87%B1%F0%9F%87%B0+Building+cool+things+from+Sri+Lanka"
+  alt="Typing SVG"
+/>
 
-<br/>
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-dev--sandakelum-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dev-sandakelum)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hasitha--sandakelum-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasitha-sandakelum)
-[![Ambassador](https://img.shields.io/badge/Microsoft_Student_Ambassador-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20)
+[![Microsoft Student Ambassador](https://img.shields.io/badge/Microsoft_Student_Ambassador-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20)
 [![EKTAZEPT](https://img.shields.io/badge/Co--Founder-EKTAZEPT-6C2BD9?style=flat-square&logo=vercel&logoColor=white)](https://ektazept.vercel.app)
 [![Sri Lanka](https://img.shields.io/badge/🇱🇰_Sri_Lanka-Building%20%26%20Learning-a78bfa?style=flat-square)](https://github.com/dev-sandakelum)
 
@@ -42,7 +45,7 @@ Proud to be a **Microsoft Student Ambassador**, learning, sharing knowledge, con
 
 **EKTAZEPT** is a software startup focused on building a unified SaaS ecosystem that brings workflows, data, and tools together in one intelligent platform.
 
-🌐 **[Visit EKTAZEPT](https://ektazept.vercel.app)**
+🌐 **[Visit EKTAZEPT →](https://ektazept.vercel.app)**
 
 ### 🎮 Beyond Code
 
@@ -68,7 +71,7 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <br/>
 
-[![View Profile](https://img.shields.io/badge/View%20Ambassador%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20)
+[![View Ambassador Profile](https://img.shields.io/badge/View%20Ambassador%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20)
 
 <br/><br/>
 
@@ -132,13 +135,13 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-sandakelum&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-sandakelum&theme=tokyonight" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-sandakelum&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-sandakelum&theme=tokyonight" alt="Top Languages"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev-sandakelum&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6ecd&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=dev-sandakelum&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6ecd&currStreakLabel=a78bfa" alt="GitHub Streak"/>
 
 </div>
 
@@ -148,7 +151,10 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-sandakelum&theme=tokyonight" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-sandakelum&theme=tokyonight"
+  alt="Contribution Activity"
+/>
 
 </div>
 
@@ -159,10 +165,15 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-developmenews-projects.vercel.app/)
+
 [![EKTAZEPT](https://img.shields.io/badge/EKTAZEPT-6C2BD9?style=for-the-badge&logo=vercel&logoColor=white)](https://ektazept.vercel.app)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasitha-sandakelum)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-sandakelum)
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hasitha_sandakelum)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hasitha_san_/)
 
 </div>
@@ -173,7 +184,10 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=dev-sandakelum&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="profile views" />
+<img
+  src="https://komarev.com/ghpvc/?username=dev-sandakelum&label=Profile+Views&color=a78bfa&style=for-the-badge"
+  alt="Profile Views"
+/>
 
 <br/>
 <br/>
