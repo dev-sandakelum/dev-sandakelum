@@ -61,33 +61,34 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <div align="center">
 
-<a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20">
-  <img src="img/Student Ambassadors.png" alt="Microsoft Student Ambassador" width="120" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="400">
+      <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20">
+        <img src="img/Student%20Ambassadors.png" alt="Microsoft Student Ambassador" width="120" />
+      </a>
+      <br/><br/>
+      <b>💚 Microsoft Student Ambassador</b>
+      <br/><br/>
+      <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20">
+        <img src="https://img.shields.io/badge/View%20Ambassador%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="View Ambassador Profile" />
+      </a>
+    </td>
+    <td align="center" width="400">
+      <a href="https://ektazept.vercel.app">
+        <img src="img/ektazept.png" alt="EKTAZEPT" width="120" />
+      </a>
+      <br/><br/>
+      <b>🚀 Co-Founder @ EKTAZEPT</b>
+      <br/><br/>
+      <a href="https://ektazept.vercel.app">
+        <img src="https://img.shields.io/badge/Visit%20EKTAZEPT-6C2BD9?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit EKTAZEPT" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
-
-**💚 Microsoft Student Ambassador**
-
-<br/>
-
-[![View Ambassador Profile](https://img.shields.io/badge/View%20Ambassador%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20)
-
-<br/><br/>
-
-<a href="https://ektazept.vercel.app">
-  <img src="img/ektazept.png" alt="EKTAZEPT" width="120" />
-</a>
-
-<br/>
-
-**🚀 Co-Founder @ EKTAZEPT**
-
-<br/>
-
-[![Visit EKTAZEPT](https://img.shields.io/badge/Visit%20EKTAZEPT-6C2BD9?style=for-the-badge&logo=vercel&logoColor=white)](https://ektazept.vercel.app)
-
-<br/><br/>
 
 *Learning · Sharing · Connecting · Building · Creating*
 
