@@ -1,16 +1,17 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4a0e8f,50:1a1a6e,100:6a0dad&height=200&section=header&text=Hi%2C%20I'm%20Hasitha%20Sandakelum&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Self-Learner%20%C2%B7%20BICT%20Student%20%C2%B7%20Microsoft%20Student%20Ambassador&descAlignY=60&descSize=16)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0e8f,50:1a1a6e,100:6a0dad&height=200&section=header&text=Hi%2C%20I'm%20Hasitha%20Sandakelum&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Self-Learner%20%C2%B7%20BICT%20Student%20%C2%B7%20Microsoft%20Student%20Ambassador%20%C2%B7%20Co-Founder%20%40%20EKTAZEPT&descAlignY=60&descSize=15" alt="Header"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=20\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&multiline=false\&width=700\&lines=🎓+BICT+Student+%40+University+of+Ruhuna;💚+Microsoft+Student+Ambassador;🚀+Building+Web+Apps+with+React+%7C+Next.js+%7C+Vite;🎮+Passionate+about+Game+Design+%26+3D+Art;🇱🇰+Building+cool+things+from+Sri+Lanka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🎓+BICT+Student+%40+University+of+Ruhuna;💚+Microsoft+Student+Ambassador;🚀+Co-Founder+%40+EKTAZEPT;💻+Building+Web+Apps+with+React+%7C+Next.js+%7C+Vite;🎮+Passionate+about+Game+Design+%26+3D+Art;🇱🇰+Building+cool+things+from+Sri+Lanka](https://git.io/typing-svg)
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-dev--sandakelum-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dev-sandakelum)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hasitha--sandakelum-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasitha-sandakelum)
 [![Ambassador](https://img.shields.io/badge/Microsoft_Student_Ambassador-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20)
+[![EKTAZEPT](https://img.shields.io/badge/Co--Founder-EKTAZEPT-6C2BD9?style=flat-square&logo=vercel&logoColor=white)](https://ektazept.vercel.app)
 [![Sri Lanka](https://img.shields.io/badge/🇱🇰_Sri_Lanka-Building%20%26%20Learning-a78bfa?style=flat-square)](https://github.com/dev-sandakelum)
 
 <br/>
@@ -21,19 +22,27 @@
 
 ## 👋 About Me
 
-I'm **Hasitha Sandakelum**, a Bachelor of ICT student at the **University of Ruhuna** and a passionate self-learner who enjoys turning ideas into real projects.
+I'm **Hasitha Sandakelum**, a Bachelor of ICT student at the **University of Ruhuna**, a **Microsoft Student Ambassador**, and **Co-Founder of EKTAZEPT**.
 
-I'm interested in **web development, UI/UX, game design, 3D, and emerging technologies**. I learn mostly by building, experimenting, breaking things, fixing them, and doing it all over again.
+I'm a passionate self-learner who enjoys turning ideas into real projects.
+
+I'm interested in **web development, UI/UX, SaaS, game design, 3D, and emerging technologies**. I learn mostly by building, experimenting, breaking things, fixing them, and doing it all over again.
 
 ### 🎓 Education
 
-**Bachelor of ICT**
-University of Ruhuna
+**Bachelor of ICT**  
+University of Ruhuna  
 📍 Sri Lanka · Enrolled 2025
 
 ### 💚 Microsoft Student Ambassador
 
 Proud to be a **Microsoft Student Ambassador**, learning, sharing knowledge, connecting with other students, and exploring Microsoft's technologies.
+
+### 🚀 Co-Founder — EKTAZEPT
+
+**EKTAZEPT** is a software startup focused on building a unified SaaS ecosystem that brings workflows, data, and tools together in one intelligent platform.
+
+🌐 **[Visit EKTAZEPT](https://ektazept.vercel.app)**
 
 ### 🎮 Beyond Code
 
@@ -45,7 +54,7 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 ---
 
-## 🏆 Milestone
+## 🏆 Milestones
 
 <div align="center">
 
@@ -61,9 +70,23 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 [![View Profile](https://img.shields.io/badge/View%20Ambassador%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20)
 
+<br/><br/>
+
+<a href="https://ektazept.vercel.app">
+  <img src="img/ektazept.png" alt="EKTAZEPT" width="120" />
+</a>
+
 <br/>
 
-*Learning · Sharing · Connecting · Building*
+**🚀 Co-Founder @ EKTAZEPT**
+
+<br/>
+
+[![Visit EKTAZEPT](https://img.shields.io/badge/Visit%20EKTAZEPT-6C2BD9?style=for-the-badge&logo=vercel&logoColor=white)](https://ektazept.vercel.app)
+
+<br/><br/>
+
+*Learning · Sharing · Connecting · Building · Creating*
 
 </div>
 
@@ -75,31 +98,31 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Design & 3D
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge\&logo=blender\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -115,7 +138,7 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev-sandakelum\&theme=tokyonight\&hide_border=true\&background=0d1117\&ring=a78bfa\&fire=ff6ecd\&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-sandakelum&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6ecd&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
@@ -135,7 +158,12 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-developmenews-projects.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hasitha-sandakelum) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dev-sandakelum) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@hasitha_sandakelum) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/hasitha_san_/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-developmenews-projects.vercel.app/)
+[![EKTAZEPT](https://img.shields.io/badge/EKTAZEPT-6C2BD9?style=for-the-badge&logo=vercel&logoColor=white)](https://ektazept.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasitha-sandakelum)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-sandakelum)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hasitha_sandakelum)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hasitha_san_/)
 
 </div>
 
