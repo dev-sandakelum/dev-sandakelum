@@ -61,32 +61,23 @@ I enjoy working with **Figma, Blender, React**, and other creative tools to expl
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="400">
-      <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20">
-        <img src="img/Student%20Ambassadors.png" alt="Microsoft Student Ambassador" width="120" />
-      </a>
-      <br/><br/>
-      <b>💚 Microsoft Student Ambassador</b>
-      <br/><br/>
-      <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20">
-        <img src="https://img.shields.io/badge/View%20Ambassador%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="View Ambassador Profile" />
-      </a>
-    </td>
-    <td align="center" width="400">
-      <a href="https://ektazept.vercel.app">
-        <img src="img/ektazept.png" alt="EKTAZEPT" width="120" />
-      </a>
-      <br/><br/>
-      <b>🚀 Co-Founder @ EKTAZEPT</b>
-      <br/><br/>
-      <a href="https://ektazept.vercel.app">
-        <img src="https://img.shields.io/badge/Visit%20EKTAZEPT-6C2BD9?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit EKTAZEPT" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20"><img src="img/Student%20Ambassadors.png" alt="Microsoft Student Ambassador" width="120" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ektazept.vercel.app"><img src="img/ektazept.png" alt="EKTAZEPT" width="120" /></a>
+</p>
+
+<p align="center">
+  <b>💚 Microsoft Student Ambassador</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>🚀 Co-Founder @ EKTAZEPT</b>
+</p>
+
+<p align="center">
+  <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/d0a2839f-a9a3-48c0-ac47-facf6b828c20"><img src="https://img.shields.io/badge/View%20Ambassador%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="View Ambassador Profile" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ektazept.vercel.app"><img src="https://img.shields.io/badge/Visit%20EKTAZEPT-6C2BD9?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit EKTAZEPT" /></a>
+</p>
 
 <br/>
 
